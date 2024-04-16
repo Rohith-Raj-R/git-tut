@@ -1,1 +1,2 @@
-Hi Before First Commit
+Hi After Commit
+And First File as well
