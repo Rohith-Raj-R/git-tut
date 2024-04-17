@@ -1,1 +1,2 @@
 branchA file 4
+Modified in branchA
